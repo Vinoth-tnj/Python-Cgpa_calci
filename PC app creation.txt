@@ -1,0 +1,11 @@
+CREATE A PC APP COMMAND:
+
+Go to the python script directiory and the using the command below
+
+pyinstaller python_file_name.py
+
+EG: pyinstaller calci.py
+
+NEXT COMMAND
+
+pyinstaller.exe --onefile --windowed --name myapp --icon=youricon.ico yourscript.py
